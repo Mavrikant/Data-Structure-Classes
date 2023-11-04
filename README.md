@@ -1,5 +1,7 @@
 [![CMake](https://github.com/Mavrikant/Linked-List-Class-Cpp/actions/workflows/cmake.yml/badge.svg)](https://github.com/Mavrikant/Linked-List-Class-Cpp/actions/workflows/cmake.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/mavrikant/data-structure-classes/badge)](https://www.codefactor.io/repository/github/mavrikant/data-structure-classes)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2613f1efb1224d958c9cb4ca09ff7081)](https://app.codacy.com/gh/Mavrikant/Data-Structure-Classes/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 # Data Sctructures Impelemented in C++
 
 ## Linked List Class
