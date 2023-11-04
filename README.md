@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/65749f99ae804c569500af61c6cb8d44)](https://app.codacy.com/gh/Mavrikant/Data-Structure-Classes?utm_source=github.com&utm_medium=referral&utm_content=Mavrikant/Data-Structure-Classes&utm_campaign=Badge_Grade)
 [![CMake](https://github.com/Mavrikant/Linked-List-Class-Cpp/actions/workflows/cmake.yml/badge.svg)](https://github.com/Mavrikant/Linked-List-Class-Cpp/actions/workflows/cmake.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/mavrikant/data-structure-classes/badge)](https://www.codefactor.io/repository/github/mavrikant/data-structure-classes)
 # Data Sctructures Impelemented in C++
