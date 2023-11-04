@@ -1,5 +1,5 @@
 [![CMake](https://github.com/Mavrikant/Linked-List-Class-Cpp/actions/workflows/cmake.yml/badge.svg)](https://github.com/Mavrikant/Linked-List-Class-Cpp/actions/workflows/cmake.yml)
-
+[![CodeFactor](https://www.codefactor.io/repository/github/mavrikant/data-structure-classes/badge)](https://www.codefactor.io/repository/github/mavrikant/data-structure-classes)
 # Data Sctructures Impelemented in C++
 
 ## Linked List Class
